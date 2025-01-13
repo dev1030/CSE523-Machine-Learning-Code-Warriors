@@ -1,5 +1,11 @@
 # CSE523-Machine-Learning-Code-Warriors
 
+## Team Members
+- **Vishvas Patel**
+- **Deep Patel**
+- **Dhruv Panchl**
+- **Devarsh Suthar**
+
 # 1. Introduction
 
 Predicting the condition of the atmosphere using science and technology is known as rainfall prediction. We compared all the classifiers mentioned below and  analysed the results. The graphs for the same can be found below in the results section.
