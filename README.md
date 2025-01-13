@@ -1,10 +1,10 @@
 # CSE523-Machine-Learning-Code-Warriors
 
 ## Team Members
-- **Vishvas Patel**
-- **Deep Patel**
-- **Dhruv Panchal**
-- **Devarsh Suthar**
+- [**Vishvas Patel**](https://github.com/Vishvas810)
+- [**Deep Patel**](https://github.com/deeppatel01)
+- [**Dhruv Panchal**](https://github.com/dhruv0022)
+- [**Devarsh Suthar**](https://github.com/dev1030)
 
 # 1. Introduction
 
