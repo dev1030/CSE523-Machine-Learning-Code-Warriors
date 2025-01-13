@@ -3,7 +3,7 @@
 ## Team Members
 - **Vishvas Patel**
 - **Deep Patel**
-- **Dhruv Panchl**
+- **Dhruv Panchal**
 - **Devarsh Suthar**
 
 # 1. Introduction
